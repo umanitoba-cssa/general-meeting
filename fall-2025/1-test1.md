@@ -1,2 +1,7 @@
-# this is test1
-test1test1
+---
+title: Test1
+date: October 8th, 2025
+geometry: margin=1in
+---
+
+this is test1
