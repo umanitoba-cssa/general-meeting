@@ -1,6 +1,6 @@
 ---
-title: "CSSA General Meeting Summary"
-description: "Fall 2025 General Meeting & Mixer"
+title: "Fall 2025 General Meeting"
+description: "General Meeting Summary & Mixer"
 author: "Computer Science Students' Association"
 date: "October 8th, 2025"
 geometry: margin=1in
