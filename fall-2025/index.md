@@ -2,7 +2,7 @@
 title: "Fall 2025 General Meeting"
 description: "General Meeting Summary & Mixer"
 author: "Computer Science Students' Association"
-date: "October 8th, 2025"
+date: "2025-10-08"
 geometry: margin=1in
 ---
 

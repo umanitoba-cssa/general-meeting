@@ -2,7 +2,7 @@
 title: "Committees"
 description: "All about the CSSA committees"
 author: "Computer Science Students' Association"
-date: "October 8th, 2025"
+date: "2025-10-08"
 ---
 
 # Committees

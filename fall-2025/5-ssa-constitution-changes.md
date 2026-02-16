@@ -2,7 +2,7 @@
 title: "SSA Constitution Changes"
 description: "New merchandise"
 author: "Computer Science Students' Association"
-date: "October 8th, 2025"
+date: "2025-10-08"
 ---
 
 ## SSA Constitution Changes:
