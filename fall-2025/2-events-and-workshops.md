@@ -2,7 +2,7 @@
 title: "Events and Workshops"
 description: "Upcoming events and workshops"
 author: "Computer Science Students' Association"
-date: "October 8th, 2025"
+date: "2025-10-08"
 ---
 
 ## Events and Workshops:
