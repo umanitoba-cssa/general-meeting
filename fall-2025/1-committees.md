@@ -9,10 +9,10 @@ date: "October 8th, 2025"
 
 ![Committees](img-committees.png)
 
-For committees this year we have seven committees:
+For committees this year, we have seven committees:
 
 - Advocacy
-  - Working to make sure that CS students feel represented, welcome, and advocated for.
+  - Working to make sure that CS students feel represented, welcomed, and advocated for.
 - Events
   - Working to help create, plan, and run events.
 - Finance
